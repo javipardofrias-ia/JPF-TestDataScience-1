@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Javichu/OneDrive%20-%20UFV/Escritorio/personal/Capgemini/Capgemini/notebooks/mlruns/666526178765312382/983dffa054f34baead585bed11bb989e/artifacts
+end_time: 1755701324050
+entry_point_name: ''
+experiment_id: '666526178765312382'
+lifecycle_stage: active
+run_id: 983dffa054f34baead585bed11bb989e
+run_name: RandomForest_baseline
+run_uuid: 983dffa054f34baead585bed11bb989e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755701320897
+status: 3
+tags: []
+user_id: Javichu
